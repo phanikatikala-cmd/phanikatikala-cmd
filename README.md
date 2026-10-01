@@ -11,14 +11,12 @@
   </p>
 
   <!-- Typing SVG Banner -->
-  <a href="https://github.com/phanikatikala">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=Machine+Learning+Engineer;Full-Stack+Software+Developer;98.6%25+Accuracy+Clinical+ML+Pipelines;FastAPI+%2B+React+%2B+Transformers;Open+to+SDE+%26+MLE+Opportunities" alt="Typing SVG" />
+  <a href="https://github.com/phanikatikala-cmd">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=AI+and+ML+Engineer;Full-Stack+Software+Developer;Open+to+SDE+%26+MLOps+Opportunities" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
-
   <!-- Social & Contact Badges -->
-  <a href="https://linkedin.com/in/phanikatikala" target="_blank">
+  <a href="https://www.linkedin.com/in/ram-katikala/?isSelfProfile=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   &nbsp;
@@ -26,18 +24,17 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
   &nbsp;
-  <a href="https://phanikatikala.github.io" target="_blank">
+  <a href="https://gorgeous-bombolone-b54875.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge" />
   </a>
   &nbsp;
-  <a href="https://github.com/phanikatikala" target="_blank">
+  <a href="https://github.com/phanikatikala-cmd" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-
-  <br/><br/>
+<br/>
 
   <!-- Metadata Badges -->
-  <img src="https://img.shields.io/badge/Education-B.Tech%20CSE%20%7C%20CGPA%209.03-success?style=flat-square&logo=academia" alt="Education Badge" />
+  <img src="https://img.shields.io/badge/Education-B.Tech%20CSE%20%7C%20CGPA%209.07-success?style=flat-square&logo=academia" alt="Education Badge" />
   <img src="https://img.shields.io/badge/Focus-Applied%20ML%20%26%20Distributed%20Web-blue?style=flat-square" alt="Focus Badge" />
   <img src="https://img.shields.io/badge/Location-Visakhapatnam%2C%20India-blueviolet?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge" />
 
@@ -59,7 +56,7 @@ I am a **Machine Learning Engineer & Full-Stack Developer** focused on designing
 ## 💼 Industry Experience
 
 ### **Machine Learning Intern** &bull; *Spypro Security Solution Pvt. Ltd.*
-`Nov 2023 – Apr 2024` &bull; *Visakhapatnam, India*
+`Nov 2023 – Apr 2024` &bull; *vijayawada, India*
 
 - **End-to-End Diagnostic Pipeline**: Engineered and benchmarked a clinical dementia prediction engine handling multi-dimensional patient feature vectors.
 - **Handling Class Imbalance**: Implemented **SMOTE (Synthetic Minority Over-sampling Technique)** and stratified $k$-fold cross-validation to prevent model overfitting on heavily skewed medical data.
@@ -128,10 +125,10 @@ A curated selection of production-ready machine learning systems, accessible com
 
 | Project | Architectural Overview | Tech Stack | Impact & Key Metrics | Links |
 | :--- | :--- | :--- | :--- | :---: |
-| **🧠 Dementia Prediction System** | Clinical diagnostic pipeline featuring SMOTE resampling for heavy class imbalance, hyperparameter-tuned ensemble classification, and an async REST API for instant patient inference. | `Python` `FastAPI` `Scikit-Learn` `SMOTE` `Pandas` | **98.6% Accuracy** across validation datasets; sub-40ms endpoint inference latency. | [Repo](https://github.com/phanikatikala/dementia-prediction) &bull; [Demo](#) |
-| **⚖️ Legal Lens – AI Contract Analyzer** | NLP-driven contract intelligence platform capable of extracting complex legal obligations, parsing indemnities, tokenizing legal clauses, and flagging high-risk contract liabilities. | `Transformers` `NLP` `Python` `PyTorch` `FastAPI` `React` | Automated **80%+ manual contract review time**; structured multi-class risk extraction. | [Repo](https://github.com/phanikatikala/legal-lens) &bull; [Demo](#) |
-| **🤟 SilentTalk – Assistive Sign-to-Speech** | Real-time computer vision assistive engine that captures sign language gestures using OpenCV, classifies spatial hand patterns with a CNN, and synthesizes audio via text-to-speech. | `OpenCV` `CNN` `Python` `TTS` `NumPy` | **30+ FPS real-time detection**; enables accessible bidirectional communication. | [Repo](https://github.com/phanikatikala/silent-talk) &bull; [Demo](#) |
-| **🤖 Versatile AI Assistant** | Cross-platform desktop productivity application featuring customized PyQt5 interfaces, structured multi-turn LLM prompt workflows, and automated code generation pipelines. | `Python` `PyQt5` `OpenAI API` `REST` | **Modular plugin architecture** accelerating developer prompt-to-code workflows. | [Repo](https://github.com/phanikatikala/versatile-ai-assistant) &bull; [Demo](#) |
+| **🧠 Dementia Prediction System** | Clinical diagnostic pipeline featuring SMOTE resampling for heavy class imbalance, hyperparameter-tuned ensemble classification, and an async REST API for instant patient inference. | `Python` `FastAPI` `Scikit-Learn` `SMOTE` `Pandas` | **98.6% Accuracy** across validation datasets; sub-40ms endpoint inference latency. | [Repo](https://github.com/phanikatikala-cmd/Dementia-prediction-) &bull; [Demo](#) |
+| **⚖️ Legal Lens – AI Contract Analyzer** | NLP-driven contract intelligence platform capable of extracting complex legal obligations, parsing indemnities, tokenizing legal clauses, and flagging high-risk contract liabilities. | `Transformers` `NLP` `Python` `PyTorch` `FastAPI` `React` | Automated **80%+ manual contract review time**; structured multi-class risk extraction. | [Repo](https://github.com/phanikatikala-cmd/Legal-Lens) &bull; [Demo](#) |
+| **🤟 SilentTalk – Assistive Sign-to-Speech** | Real-time computer vision assistive engine that captures sign language gestures using OpenCV, classifies spatial hand patterns with a CNN, and synthesizes audio via text-to-speech. | `OpenCV` `CNN` `Python` `TTS` `NumPy` | **30+ FPS real-time detection**; enables accessible bidirectional communication. | [Repo](https://github.com/phanikatikala-cmd/SilentTalk-Sign-Language-Translator) &bull; [Demo](#) |
+| **🤖 Versatile AI Assistant** | Cross-platform desktop productivity application featuring customized PyQt5 interfaces, structured multi-turn LLM prompt workflows, and automated code generation pipelines. | `Python` `PyQt5` `OpenAI API` `REST` | **Modular plugin architecture** accelerating developer prompt-to-code workflows. | [Repo](https://github.com/phanikatikala-cmd/Versatile-AI-Assistant-Desktop-App) &bull; [Demo](#) |
 
 ---
 
@@ -141,12 +138,12 @@ A curated selection of production-ready machine learning systems, accessible com
   <table border="0">
     <tr>
       <td>
-        <a href="https://github.com/phanikatikala">
+        <a href="https://github.com/phanikatikala-cmd">
           <img src="https://github-readme-stats.vercel.app/api?username=phanikatikala&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Katikala's GitHub Stats" width="410" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/phanikatikala">
+        <a href="https://github.com/phanikatikala-cmd">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanikatikala&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="370" />
         </a>
       </td>
@@ -155,7 +152,7 @@ A curated selection of production-ready machine learning systems, accessible com
 
   <br/>
 
-  <a href="https://github.com/phanikatikala">
+  <a href="https://github.com/phanikatikala-cmd">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=phanikatikala&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" width="790" />
   </a>
 </div>
@@ -178,7 +175,7 @@ I am actively seeking opportunities where I can contribute to **Machine Learning
 
 <div align="center">
   <p>
-    <a href="https://linkedin.com/in/phanikatikala">
+    <a href="https://www.linkedin.com/in/ram-katikala/?isSelfProfile=true">
       <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;&nbsp;
@@ -186,7 +183,7 @@ I am actively seeking opportunities where I can contribute to **Machine Learning
       <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://phanikatikala.github.io">
+    <a href="https://gorgeous-bombolone-b54875.netlify.app/">
       <img src="https://img.shields.io/badge/Visit_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
   </p>
