@@ -31,7 +31,7 @@
   <a href="https://github.com/phanikatikala-cmd" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-<br>
+<br><br>
 
   <!-- Metadata Badges -->
   <img src="https://img.shields.io/badge/Education-B.Tech%20CSE%20%7C%20CGPA%209.07-success?style=flat-square&logo=academia" alt="Education Badge" />
