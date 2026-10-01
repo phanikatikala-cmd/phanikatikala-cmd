@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
 
-<br><br>
+<br>
   <!-- Metadata Badges -->
   <img src="https://img.shields.io/badge/Education-B.Tech%20CSE%20%7C%20CGPA%209.03-success?style=flat-square&logo=academia" alt="B.Tech CSE, CGPA 9.03" />
   <img src="https://img.shields.io/badge/Focus-Applied%20ML%20%26%20Distributed%20Web-blue?style=flat-square" alt="Focus Badge" />
