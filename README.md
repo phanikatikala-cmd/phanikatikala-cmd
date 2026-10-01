@@ -14,7 +14,7 @@
   <a href="https://github.com/phanikatikala-cmd">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=AI+and+ML+Engineer;Full-Stack+Software+Developer;Open+to+SDE+%26+MLOps+Opportunities" alt="Typing SVG" />
   </a>
-
+<br>
   <!-- Social & Contact Badges -->
   <a href="https://www.linkedin.com/in/ram-katikala/?isSelfProfile=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
 
-
+<br><br>
   <!-- Metadata Badges -->
   <img src="https://img.shields.io/badge/Education-B.Tech%20CSE%20%7C%20CGPA%209.03-success?style=flat-square&logo=academia" alt="B.Tech CSE, CGPA 9.03" />
   <img src="https://img.shields.io/badge/Focus-Applied%20ML%20%26%20Distributed%20Web-blue?style=flat-square" alt="Focus Badge" />
@@ -80,15 +80,6 @@ I build practical machine learning applications, computer vision systems, and sc
 ## 🛠️ Technical Arsenal
 
 <div align="center">
-
-### Core Technologies
-
-**Languages:** Python, C++, Java, JavaScript, SQL  
-**ML/AI:** Scikit-learn, PyTorch, Transformers, OpenCV, Pandas, NumPy  
-**Backend:** FastAPI, REST APIs  
-**Frontend:** React, HTML, CSS  
-**Databases:** PostgreSQL, MongoDB  
-**Tools:** Git, GitHub, Linux, Postman, VS Code
 
 ### **Languages**
 <p>
